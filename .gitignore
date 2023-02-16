@@ -1,0 +1,10 @@
+# virtualenv
+venv/
+
+# logs
+logs/
+
+# arquivos de textos
+TXTs/
+
+.idea
